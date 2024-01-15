@@ -1,0 +1,2 @@
+# trading
+trading strategy practice
